@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/Point/bin/Debug/net7.0/Point
+/Users/macos/Desktop/Operator/Point/bin/Debug/net7.0/Point.deps.json
+/Users/macos/Desktop/Operator/Point/bin/Debug/net7.0/Point.runtimeconfig.json
+/Users/macos/Desktop/Operator/Point/bin/Debug/net7.0/Point.dll
+/Users/macos/Desktop/Operator/Point/bin/Debug/net7.0/Point.pdb
+/Users/macos/Desktop/Operator/Point/obj/Debug/net7.0/Point.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/Point/obj/Debug/net7.0/Point.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/Point/obj/Debug/net7.0/Point.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/Point/obj/Debug/net7.0/Point.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/Point/obj/Debug/net7.0/Point.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/Point/obj/Debug/net7.0/Point.dll
+/Users/macos/Desktop/Operator/Point/obj/Debug/net7.0/refint/Point.dll
+/Users/macos/Desktop/Operator/Point/obj/Debug/net7.0/Point.pdb
+/Users/macos/Desktop/Operator/Point/obj/Debug/net7.0/Point.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/Point/obj/Debug/net7.0/ref/Point.dll
